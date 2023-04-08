@@ -3459,6 +3459,28 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IRRy8dSUEe2lGeqB9a0Law"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_OmNhUNYsEe2bA8PkSNTUuw" memberEnd="_OmOIYNYsEe2bA8PkSNTUuw _OmOvcNYsEe2bA8PkSNTUuw" navigableOwnedEnd="_OmOIYNYsEe2bA8PkSNTUuw">
+      <ownedEnd xmi:id="_OmOIYNYsEe2bA8PkSNTUuw" name="frmEliminarArchivoEmpleado" visibility="private" association="_OmNhUNYsEe2bA8PkSNTUuw">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_2qiyYNYrEe2bA8PkSNTUuw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/Requerimiento%20de%20bienes%20y%20servicios/FrmEliminarArchivoEmpleado?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OmOIYtYsEe2bA8PkSNTUuw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OmOIYdYsEe2bA8PkSNTUuw"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_OmOvcNYsEe2bA8PkSNTUuw" name="" visibility="private" type="_JPfiED22EeybD-rsDf9gcg" association="_OmNhUNYsEe2bA8PkSNTUuw">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OmOvctYsEe2bA8PkSNTUuw" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OmOvcdYsEe2bA8PkSNTUuw"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_T0wNUNYtEe2bA8PkSNTUuw" memberEnd="_T0w0YNYtEe2bA8PkSNTUuw _T0xbcNYtEe2bA8PkSNTUuw" navigableOwnedEnd="_T0w0YNYtEe2bA8PkSNTUuw">
+      <ownedEnd xmi:id="_T0w0YNYtEe2bA8PkSNTUuw" name="frmMarcarFactura" visibility="private" association="_T0wNUNYtEe2bA8PkSNTUuw">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_4qyGkFVDEeykvYep7xyYzw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/Requerimiento%20de%20bienes%20y%20servicios/FrmMarcarFactura?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_T0w0YtYtEe2bA8PkSNTUuw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_T0w0YdYtEe2bA8PkSNTUuw"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_T0xbcNYtEe2bA8PkSNTUuw" name="" visibility="private" type="_JEM4ED22EeybD-rsDf9gcg" association="_T0wNUNYtEe2bA8PkSNTUuw">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_T0xbctYtEe2bA8PkSNTUuw" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_T0xbcdYtEe2bA8PkSNTUuw"/>
+      </ownedEnd>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_9FHP4D21EeybD-rsDf9gcg" name="Casos de Uso">
     <eAnnotations xmi:id="_9FHP4T21EeybD-rsDf9gcg" source="uml2.diagrams" references="_9FH28D21EeybD-rsDf9gcg">

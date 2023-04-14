@@ -2830,7 +2830,7 @@
                       <children xmi:type="notation:BasicDecorationNode" xmi:id="_eXNFZDt2Eey-Yryjzr5pHg" type="Parent"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXNFYTt2Eey-Yryjzr5pHg" y="-186"/>
                     </children>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXMeUTt2Eey-Yryjzr5pHg" x="13346" y="3773"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXMeUTt2Eey-Yryjzr5pHg" x="13556" y="2955"/>
                   </children>
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_efDZ0Dt2Eey-Yryjzr5pHg" element="_efCLsDt2Eey-Yryjzr5pHg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
                     <children xmi:type="notation:DecorationNode" xmi:id="_efEA4Dt2Eey-Yryjzr5pHg" type="ImageCompartment">
@@ -2877,6 +2877,8 @@
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFWk0Tt2Eey-Yryjzr5pHg" y="-186"/>
                 </children>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fFV9wTt2Eey-Yryjzr5pHg" points="[40, 3, -143, 5]$[143, 3, -40, 5]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2MJUgNpwEe2XnZK0Euy38w" id="(0.9220226843100189,0.3638426626323752)"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2hmAENpwEe2XnZK0Euy38w" id="(0.05198487712665406,0.3441754916792738)"/>
               </edges>
               <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fil6cDt2Eey-Yryjzr5pHg" element="_fiksUDt2Eey-Yryjzr5pHg" source="_emVtkDt2Eey-Yryjzr5pHg" target="_eXMeUDt2Eey-Yryjzr5pHg" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
                 <children xmi:type="notation:DecorationNode" xmi:id="_fil6cjt2Eey-Yryjzr5pHg" type="TransitionLabelCompartment">
@@ -2904,7 +2906,18 @@
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sn6x8zt2Eey-Yryjzr5pHg" y="-186"/>
                 </children>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sn6x8Tt2Eey-Yryjzr5pHg" points="[63, 6, -135, 4]$[158, 6, -40, 4]"/>
-                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sn9OMDt2Eey-Yryjzr5pHg" id="(0.21691871455576558,0.2639939485627837)"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sn9OMDt2Eey-Yryjzr5pHg" id="(0.967391304347826,0.5037821482602118)"/>
+              </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_0JI68NpwEe2XnZK0Euy38w" element="_0IurQNpwEe2XnZK0Euy38w" source="_emVtkDt2Eey-Yryjzr5pHg" target="_efDZ0Dt2Eey-Yryjzr5pHg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_0JKJENpwEe2XnZK0Euy38w" type="TransitionLabelCompartment">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_0JKJEtpwEe2XnZK0Euy38w" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_0JKJE9pwEe2XnZK0Euy38w" type="TransitionLabel"/>
+                  <children xmi:type="notation:ListCompartment" xmi:id="_0JKJFNpwEe2XnZK0Euy38w" type="Triggers"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0JKJEdpwEe2XnZK0Euy38w" y="-186"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0JI68dpwEe2XnZK0Euy38w" points="[-2116, -106, 2801, -185]$[-4752, -106, 165, -185]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0JPBkNpwEe2XnZK0Euy38w" id="(1.0,0.6641452344931922)"/>
+                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_1ttFANpwEe2XnZK0Euy38w" id="(0.9220226843100189,0.7239031770045385)"/>
               </edges>
             </contents>
           </eAnnotations>
@@ -2918,6 +2931,7 @@
             <transition xmi:id="_fiksUDt2Eey-Yryjzr5pHg" source="_emVGgDt2Eey-Yryjzr5pHg" target="_eXLQMDt2Eey-Yryjzr5pHg"/>
             <transition xmi:id="_reC_0Dt2Eey-Yryjzr5pHg" name="crear()" source="_eNhk8Dt2Eey-Yryjzr5pHg" target="_qJPJADt2Eey-Yryjzr5pHg"/>
             <transition xmi:id="_sn5j0Dt2Eey-Yryjzr5pHg" name="activar()" source="_qJPJADt2Eey-Yryjzr5pHg" target="_efCLsDt2Eey-Yryjzr5pHg"/>
+            <transition xmi:id="_0IurQNpwEe2XnZK0Euy38w" name="activar()" source="_emVGgDt2Eey-Yryjzr5pHg" target="_efCLsDt2Eey-Yryjzr5pHg"/>
           </region>
         </ownedBehavior>
       </packagedElement>

@@ -1,0 +1,41 @@
+¿Cuál fue el problema o la necesidad específica que motivó la creación de este sistema de información web en la empresa RAD?
+¿Cuáles fueron los objetivos establecidos para el desarrollo de este sistema y cómo se relacionan con las necesidades comerciales de la empresa?
+¿Cuáles fueron los principales desafíos o limitaciones que encontraron durante el proceso de diseño e implementación del sistema?
+¿Qué metodología o enfoque de desarrollo de software se utilizó para crear el sistema de información web? ¿Por qué se eligió ese enfoque en particular?
+¿Qué tecnologías o herramientas específicas se utilizaron en el desarrollo del sistema? ¿Cómo se seleccionaron y cuál fue su contribución al proyecto?
+¿Qué características o funcionalidades clave ofrece el sistema de información web para mejorar la gestión comercial de la empresa RAD?
+¿Cómo se validó o evaluó la eficacia del sistema? ¿Se realizaron pruebas de usabilidad o de rendimiento? ¿Cuáles fueron los resultados obtenidos?
+¿Qué medidas de seguridad se implementaron en el sistema para proteger la información comercial y garantizar la privacidad de los usuarios?
+¿Cómo se realizó la implementación del sistema en la empresa RAD? ¿Hubo algún desafío particular durante la fase de implementación?
+¿Cuáles fueron los resultados o beneficios observados después de la implementación del sistema de información web en la empresa RAD? ¿Se logró mejorar la gestión comercial de manera significativa?
+
+
+
+
+
+
+ingresar 15 o 20 min antes a la reu
+
+15-20 min para toda la expo (15 expo - 5 sistema)
+
+problema (arbol de problemas)
+obsetivos
+hipostesis  variables
+marcoteorico con las 2 varibles (2-3 terminos)
+metodologia utilizada pq
+tipo de invetigacion
+poblacion y muestreo
+regalas del negocio -modelo del dominio-casos de uso del sistema
+diagrama de clases
+resultados y analises por cada indicador
+resultado
+recomendaciones
+
+20
+
+
+
+Buenas días
+Solicito los días Martes 04, Miércoles 05, Jueves 06, Viernes 07, Sábado 08 y Domingo 09 de Julio (6 días) a cuenta de vacaciones, por motivos académicos.
+
+Agradezco su comprensión. Saludos.
